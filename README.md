@@ -93,5 +93,5 @@ This project focuses on developing a **Network Intrusion Detection System (NIDS)
 ---
 
 ## 📞 Contact
-📧 Email: [your-email@example.com](mailto:bhanodai2005@gmail.com)  
+📧 Email: [Bhaodai2005@gmail.com](mailto:bhanodai2005@gmail.com)  
 
